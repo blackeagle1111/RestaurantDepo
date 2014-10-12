@@ -12,6 +12,7 @@ Tools:
     3. Google Map API
     4. Yelp API
     5. JQuery
+    6. Cordova
     
 Flatform:
 
